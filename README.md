@@ -12,6 +12,10 @@ Manage Cloudflare zones, DNS, Pages, R2, KV, email routing, and analytics via na
 
 This applies to every skill you install, not just this one.
 
+## Requirements
+
+- Python 3 (no pip packages needed - uses only standard library)
+
 ## Install
 
 ```bash

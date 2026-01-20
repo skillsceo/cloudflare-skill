@@ -39,7 +39,7 @@ This applies to every skill you install, not just this one.
 ## Install
 
 ```bash
-git clone https://github.com/skillsceo/cloudflare-skill ~/.claude/skills/cloudflare
+npx skills add skillsceo/cloudflare-skill
 ```
 
 ## Setup
